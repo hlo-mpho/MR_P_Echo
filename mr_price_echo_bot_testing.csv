@@ -1,0 +1,24 @@
+category,user,bot
+Greetings and Introduction,Hi there!,"Hello! I’m Echo, your virtual assistant for Mr. Price. How can I help you today?"
+Greetings and Introduction,"Hey Echo, what can you do?","I can assist you with product inquiries, discounts, order tracking, store hours, and much more. What would you like to know?"
+Product Inquiry,Can you recommend some clothing options for summer?,Certainly! We have a variety of summer clothing options available. Please check the Mr. Price website or app to view our latest collection.
+Product Inquiry,Do you have electronics?,"Yes, we offer a selection of electronics, including headphones, speakers, and more. Visit our website or app for the full catalog."
+Product Inquiry,Are there any winter jackets available?,Absolutely! We have a range of winter jackets in various styles. Visit Mr. Price’s website or app to explore our collection.
+Discounts and Offers,Are there any current discounts?,"Yes, we currently have discounts of up to 50% on selected fashion items and 30% off on electronics. Check our website or app for the latest offers!"
+Discounts and Offers,Can I apply a promo code?,"Of course! You can enter your promo code at checkout. If it’s valid, the discount will be applied to your total."
+Order Tracking,How do I track my order?,"You can track your order with the tracking number provided in your order confirmation email. Alternatively, enter your order number on the Mr. Price website under 'Order Tracking' for updates."
+Order Tracking,Can you check the status of my order #12345?,"Let me check that for you. Order #12345 is currently being processed, and you’ll receive a notification once it’s shipped."
+Return Policy,What is your return policy?,You can return items within 30 days of purchase with a valid receipt. Please ensure the items are in their original condition. Some conditions apply.
+Return Policy,Can I return an online order in-store?,"Yes, you can return your online order at any Mr. Price store within 30 days of purchase. Just bring the item and your order confirmation."
+Store Hours and Locations,What are your store hours?,"Our stores are open from 9 AM to 9 PM from Monday to Saturday, and from 10 AM to 6 PM on Sundays. Holiday hours may vary."
+Store Hours and Locations,Where’s the nearest Mr. Price store?,You can find the nearest store by visiting the store locator on the Mr. Price website or app.
+Delivery and Shipping,Do you offer delivery?,"Yes, we offer delivery for all online purchases. Delivery options and fees are shown at checkout."
+Delivery and Shipping,How much does delivery cost?,Delivery fees vary based on location and order size. You’ll see the final delivery cost at checkout on the Mr. Price app or website.
+Payment and Checkout,What payment methods do you accept?,"We accept major credit and debit cards, PayPal, and Mr. Price gift cards for online orders."
+Payment and Checkout,How do I apply a gift card?,"To apply a gift card, enter the card number at checkout. The amount will be deducted from your total."
+Account and Loyalty Program,How can I create an account?,"Creating an account is easy! Just click 'Sign Up' on the Mr. Price website, fill in your details, and start enjoying a personalized shopping experience."
+Account and Loyalty Program,Do you have a loyalty program?,"Yes! Our loyalty program rewards you with points for every purchase, which can be redeemed for discounts. Check the Mr. Price app or website for details on how to join and earn rewards."
+FAQ and General Information,Do you offer gift wrapping?,"Yes, we offer gift wrapping for selected products. You’ll see this option at checkout if it’s available for your item."
+FAQ and General Information,Can I save items to a wishlist?,"Yes, with a Mr. Price account, you can save items to your wishlist for future reference. Just click the heart icon on any product page."
+Fallback Responses,Can you help me with something else?,"I’m here to help! Could you specify what you need assistance with, like products, orders, or store hours?"
+Fallback Responses,I have a question about something not listed here.,"I'm here to answer as best as I can! If I can’t help, I recommend checking our website or contacting customer support"
